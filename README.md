@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:4285F4&height=200&section=header&text=Farouk%20Yahaya&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%E2%80%94%20R%26D%20Engineer%20%C2%B7%20Bordeaux%2C%20France&descSize=18&descAlignY=62&animation=fadeIn" alt="header" />
+<img src="https://raw.githubusercontent.com/FaroukYahaya/FaroukYahaya/main/assets/header.svg" alt="Farouk Yahaya — AI/ML R&D Engineer, Bordeaux, France" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3800&pause=1000&color=1F3A5F&center=true&vCenter=true&multiline=false&width=720&lines=Machine+learning+for+real%2C+noisy%2C+partially+observed+data;Source+separation+%C2%B7+Randomized+NLA+%C2%B7+Inverse+problems;Currently%3A+data+efficiency+%26+continual+learning+for+LLMs)](https://github.com/FaroukYahaya)
 
@@ -88,6 +88,6 @@ focus:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:1F3A5F&height=100&section=footer" alt="footer" />
+<img src="https://raw.githubusercontent.com/FaroukYahaya/FaroukYahaya/main/assets/footer.svg" alt="footer" />
 
 </div>
