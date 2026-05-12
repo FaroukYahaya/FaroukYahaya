@@ -61,10 +61,6 @@ and less compute.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukYahaya&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&card_width=420">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukYahaya&layout=compact&langs_count=8&hide_border=true&card_width=420">
-  <img alt="Most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukYahaya&layout=compact&langs_count=8&hide_border=true&card_width=420" />
-</picture>
+<img alt="Most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukYahaya&layout=compact&langs_count=8&hide_border=true&theme=transparent&card_width=420" />
 
 </div>
