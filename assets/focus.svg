@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" width="100%" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="head" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1F3A5F"/>
+      <stop offset="100%" stop-color="#4285F4"/>
+    </linearGradient>
+    <filter id="shadow" x="-2%" y="-2%" width="104%" height="108%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#1F3A5F" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <!-- card background with subtle shadow -->
+  <rect x="2" y="2" width="796" height="276" rx="12" ry="12" fill="#FFFFFF" stroke="#E0E7EE" stroke-width="1" filter="url(#shadow)"/>
+
+  <!-- header bar -->
+  <rect x="2" y="2" width="796" height="48" rx="12" ry="12" fill="url(#head)"/>
+  <rect x="2" y="30" width="796" height="20" fill="url(#head)"/>
+  <text x="24" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">Research focus</text>
+  <text x="776" y="32" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#E8EEF7" font-weight="400">three pillars</text>
+
+  <!-- divider line between header and body -->
+  <line x1="2" y1="50" x2="798" y2="50" stroke="#E0E7EE" stroke-width="1"/>
+
+  <!-- Column 1: Methods -->
+  <g transform="translate(28,76)">
+    <circle cx="14" cy="14" r="14" fill="#1F3A5F" fill-opacity="0.12"/>
+    <text x="14" y="20" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="700" fill="#1F3A5F">M</text>
+    <text x="44" y="20" font-family="-apple-system, sans-serif" font-size="15" font-weight="700" fill="#1F3A5F">Methods</text>
+
+    <text x="0" y="60"  font-family="-apple-system, sans-serif" font-size="13" fill="#333333">&#8226; Randomized numerical linear algebra</text>
+    <text x="0" y="84"  font-family="-apple-system, sans-serif" font-size="13" fill="#333333">&#8226; Matrix and tensor factorization</text>
+    <text x="0" y="108" font-family="-apple-system, sans-serif" font-size="13" fill="#333333">&#8226; Inverse problems</text>
+    <text x="0" y="132" font-family="-apple-system, sans-serif" font-size="13" fill="#333333">&#8226; Robust estimation</text>
+    <text x="0" y="156" font-family="-apple-system, sans-serif" font-size="13" fill="#333333">&#8226; Random projections</text>
+  </g>
+
+  <!-- divider 1 -->
+  <line x1="269" y1="70" x2="269" y2="252" stroke="#E0E7EE" stroke-width="1"/>
+
+  <!-- Column 2: Applications -->
+  <g transform="translate(294,76)">
+    <circle cx="14" cy="14" r="14" fill="#4285F4" fill-opacity="0.12"/>
+    <text x="14" y="20" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="700" fill="#4285F4">A</text>
+    <text x="44" y="20" font-family="-apple-system, sans-serif" font-size="15" font-weight="700" fill="#1F3A5F">Applications</text>
+
+    <text x="0" y="60"  font-family="-apple-system, sans-serif" font-size="13" fill="#333333">&#8226; Source separation</text>
+    <text x="0" y="84"  font-family="-apple-system, sans-serif" font-size="13" fill="#333333">&#8226; Biomedical signals</text>
+    <text x="0" y="108" font-family="-apple-system, sans-serif" font-size="13" fill="#333333">&#8226; Sensor networks</text>
+    <text x="0" y="132" font-family="-apple-system, sans-serif" font-size="13" fill="#333333">&#8226; Image reconstruction</text>
+    <text x="0" y="156" font-family="-apple-system, sans-serif" font-size="13" fill="#333333">&#8226; Anomaly detection</text>
+  </g>
+
+  <!-- divider 2 -->
+  <line x1="535" y1="70" x2="535" y2="252" stroke="#E0E7EE" stroke-width="1"/>
+
+  <!-- Column 3: Currently exploring -->
+  <g transform="translate(560,76)">
+    <circle cx="14" cy="14" r="14" fill="#16a34a" fill-opacity="0.14"/>
+    <text x="14" y="20" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="700" fill="#16a34a">&#8593;</text>
+    <text x="44" y="20" font-family="-apple-system, sans-serif" font-size="15" font-weight="700" fill="#1F3A5F">Exploring</text>
+
+    <text x="0" y="60"  font-family="-apple-system, sans-serif" font-size="13" fill="#333333">&#8226; Data-efficient LLM training</text>
+    <text x="0" y="84"  font-family="-apple-system, sans-serif" font-size="13" fill="#333333">&#8226; Continual learning</text>
+    <text x="0" y="108" font-family="-apple-system, sans-serif" font-size="13" fill="#333333">&#8226; Generative models</text>
+    <text x="0" y="132" font-family="-apple-system, sans-serif" font-size="13" fill="#333333">&#8226; Self-supervised learning</text>
+    <text x="0" y="156" font-family="-apple-system, sans-serif" font-size="13" fill="#333333">&#8226; Foundation models</text>
+  </g>
+</svg>

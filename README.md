@@ -69,12 +69,9 @@ focus:
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### GitHub stats
-
 <div align="center">
 
-<img height="170" alt="Farouk's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FaroukYahaya&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=transparent&title_color=1F3A5F&icon_color=4285F4&text_color=333333" />
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukYahaya&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=1F3A5F&text_color=333333" />
+<img alt="Research focus: methods, applications, and what I'm currently exploring" src="https://raw.githubusercontent.com/FaroukYahaya/FaroukYahaya/main/assets/focus.svg" />
 
 </div>
 
