@@ -57,10 +57,3 @@ and less compute.
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
----
-
-<div align="center">
-
-<img alt="Most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukYahaya&layout=compact&langs_count=8&hide_border=true&theme=transparent&card_width=420" />
-
-</div>
